@@ -1,4 +1,4 @@
-# Fun with Giphy and AJAX Buttonss
+# Fun with Giphy and AJAX Buttons
 
 What's the deal with AJAX?
 
@@ -10,3 +10,4 @@ J. Peterman.
 David Puddy.
 
 The possibilities are endless!
+
